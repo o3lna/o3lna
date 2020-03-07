@@ -12,3 +12,17 @@ SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
 Section: Tweaks
 Depiction: https://o3lna.github.io/repo/
 Name: appstore++
+
+Architecture: iphoneos-arm
+Package: com.yourepo.mohadu31.dzsnap1
+Name: DzSnap old
+Version: 1.0.3
+Description: the future of snapchat tweaks
+Author: beed
+Section: iOS12
+Depends: mobilesubstrate
+Size: 4594274
+Md5sum: c439e31e31cc27afa4bc087fd54c7ca6
+SHA256: 367bcbecdaee855c57c39924702e7785ff139527e13eb6c14118f34395db80ea
+Depiction: https://o3lna.github.io/repo/
+Filename: debs/com.yourepo.mohadu31.dzsnap1/com.yourepo.mohadu31.dzsnap1_3043.deb
