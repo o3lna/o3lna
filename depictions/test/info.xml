@@ -1,0 +1,25 @@
+<package>
+	<id>com.beed.gLocation</id>
+	<name>gLocation</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Add arabic</shortDescription>
+	<descriptionlist>
+		<description>lمعربه بالكامل</description>
+		<description>Supports iOS 13.3</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
