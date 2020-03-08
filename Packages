@@ -1,14 +1,13 @@
-Package: com.cokepokes.appstoreplusplus 
-Version: 0.9.5
+Package: com.nrkvv.glocation
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: o3lna
-Depends:  firmware (>= 11.0), mobilesubstrate 
-Conflicts: com.unlimapps.uaupdatetools
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb
-Size: 1670732
-MD5sum: e6e914ec0c7e9938241241a96d5c4821
-SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674
-SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./deb/scom.nrkvv.glocation_0.1.0_iphoneos-arm
+Size: 5934
+MD5sum: ec49387f939d63060569ecd222d6692c
+SHA1: 4ccd39c7ea1c4c369779355273d6391d28a40b4d
+SHA256: 4fcb2975d13ec120dd90ef00a754089ef1e0155faadb00f3643903d79f3e5828
 Section: Tweaks
-Depiction: https://o3lna.github.io/repo/
-Name: appstore++
+Depiction: https://github.com/o3lna/repo/com.nrkvv.glocation_0.1.0_iphoneos-arm.deb
+Name: gLocation++
