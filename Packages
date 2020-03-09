@@ -26,3 +26,22 @@ Md5sum: 113af7557f18e65d03de902efde9e2e8
 SHA256: c7af6e59fc35faf462d26da86d581a8729b5d84bd8efb8105a3ffbe6de0919eb
 Depiction: https://o3lna.github.io/repo
 Filename: debs/com.yourepo.mohadu31.bannersounds13/com.yourepo.mohadu31.bannersounds13_3150.deb
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.8-7
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-7_iphoneos-arm.deb
+Size: 1343420
+MD5sum: 82b3bcaf1b5c9e2476d85fd62b112d68
+SHA1: 02118e6f235d7d81851b16274aeada971cf35775
+SHA256: f51a2cd3eaacc52fa27afe3c8be1dca3df1997df76d8f3fc29b8af61677a7387
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
