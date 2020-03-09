@@ -3,7 +3,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: o3lna
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Filename: ./deb/scom.nrkvv.glocation_0.1.0_iphoneos-arm
+Filename: deb/com.nrkvv.glocation_0.1.0_iphoneos-arm
 Size: 5934
 MD5sum: ec49387f939d63060569ecd222d6692c
 SHA1: 4ccd39c7ea1c4c369779355273d6391d28a40b4d
