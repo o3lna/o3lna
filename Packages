@@ -18,7 +18,7 @@ Name: Banner Sounds 13
 Version: 1.0.0~beta2-5.4
 Description: Change sounds and vibration patterns for Notifications based on filters matching an Application and/or Notification Title and/or Notification Subtitle and/or Notification Message
 Author: beed
-Section: IOS13
+Section: Tweaks
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist
 Conflicts: net.tateu.bannersounds, net.tateu.bannersounds10, net.tateu.bannersounds11, net.tateu.bannersounds12
 Size: 247388
