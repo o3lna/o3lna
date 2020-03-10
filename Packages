@@ -3,7 +3,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: o3lna
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Filename: ./deb/scom.nrkvv.glocation_0.1.0_iphoneos-arm
+Filename: deb/com.nrkvv.glocation_0.1.0_iphoneos-arm
 Size: 5934
 MD5sum: ec49387f939d63060569ecd222d6692c
 SHA1: 4ccd39c7ea1c4c369779355273d6391d28a40b4d
@@ -11,3 +11,19 @@ SHA256: 4fcb2975d13ec120dd90ef00a754089ef1e0155faadb00f3643903d79f3e5828
 Section: Tweaks
 Depiction: https://github.com/o3lna/repo/com.nrkvv.glocation_0.1.0_iphoneos-arm.deb
 Name: gLocation++
+
+Architecture: iphoneos-arm
+Package: com.yourepo.mohadu31.bannersounds13
+Name: Banner Sounds 13
+Version: 1.0.0~beta2-5.4
+Description: Change sounds and vibration patterns for Notifications based on filters matching an Application and/or Notification Title and/or Notification Subtitle and/or Notification Message
+Author: beed
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist
+Conflicts: net.tateu.bannersounds, net.tateu.bannersounds10, net.tateu.bannersounds11, net.tateu.bannersounds12
+Size: 247388
+Md5sum: 113af7557f18e65d03de902efde9e2e8
+SHA256: c7af6e59fc35faf462d26da86d581a8729b5d84bd8efb8105a3ffbe6de0919eb
+Depiction: https://o3lna.github.io/repo
+Filename: debs/com.yourepo.mohadu31.bannersounds13/com.yourepo.mohadu31.bannersounds13_3150.deb
+
