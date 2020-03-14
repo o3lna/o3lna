@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Majd Alfhaily <freemanrepo@me.com>
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
-Filename: ./debs/me.alfhaily.cercube_v5.1.9_iphoneos-arm.deb
+Filename: debs/me.alfhaily.cercube_v5.1.9_iphoneos-arm.deb
 Size: 11602570
 MD5sum: f7708b8f0d00e5fcaeae3f341b79aa0a
 SHA1: 7c85915180801faee345e8f35868c5cd521f119c
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: tateu (Josh Harris) <tateu@tateu.net>
 Installed-Size: 627
 Depends: firmware (>=8.0), mobilesubstrate, preferenceloader , applist
-Filename: ./debs/net.tateu.bannersounds_1.0.0~beta24_iphoneos-arm.deb
+Filename: debs/net.tateu.bannersounds_1.0.0~beta24_iphoneos-arm.deb
 Size: 197806
 MD5sum: ef3e0e8618cbe2857968059758904361
 SHA1: 79085ba370eddf40412958d2418f9cc7d018d0a1
